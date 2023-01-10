@@ -3,7 +3,7 @@ Jpeg algorithm using the jupyter notebook
 
 ## Create a python virtual enviorment
 
-In oreder to create a virtual env install the package with the command :
+In order to create a virtual env install the package with the command :
 ```
 pip install --user virtualenv
 ```
