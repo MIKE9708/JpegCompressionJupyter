@@ -11,9 +11,9 @@ To create the virtual enviorment choose a directory and run :
 ```
 python3 -m venv env
 ```
-To activate the virtual enviorment run :
+To activate the virtual enviorment run (in the directory where you've created it):
 ```
-source env/bin/activate
+source ./env/bin/activate
 ```
 
 ## How to test it
